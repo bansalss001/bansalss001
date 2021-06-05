@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @bansalss001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sushant Bansal
+- 🧠 Product Developer | Tech Enthusiast | Learner Always
+- 👀 I’m interested in React, Angular, Node, Typescript, React-Native, Ionice
+- 🌱 I’m currently learning Python
+- 📫 Reach me at bansalss001@gmail.com
 
 <!---
 bansalss001/bansalss001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
